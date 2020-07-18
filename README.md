@@ -25,4 +25,3 @@ Nota: Si quieres ver la app en web, [ingresa a la página](https://cienciasmatha
 
 # Ciencias Math App Desktop - Demo
 ![](Demo.gif)
-
