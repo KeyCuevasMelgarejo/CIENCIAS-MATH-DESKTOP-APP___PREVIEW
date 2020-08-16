@@ -2,6 +2,9 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
+# Ciencias Math App Desktop - Demo
+![](Demo.gif)
+
 # Ciencias Math App Desktop - Inicialización
 
 **Clona y corre el programa para ver a Ciencias Math App Desktop en uso**
@@ -23,5 +26,8 @@ npm start
 
 Nota: Si quieres ver la app en web, [ingresa a la página](https://cienciasmathapp.herokuapp.com) o solo dale en `clone` y sigue los pasos.
 
-# Ciencias Math App Desktop - Demo
-![](Demo.gif)
+## Licencias
+    Ciencias-Math-App-Desktop@v1.5
+    │ └── Creative Commons Zero v1.0 Universal
+    ├─┬ SASS AND TEMPLATES
+    │ └── MIT License - Copyright (c) 2017 Creative Tim (http://www.creative-tim.com)
