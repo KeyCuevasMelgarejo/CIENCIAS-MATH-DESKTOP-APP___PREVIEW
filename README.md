@@ -26,8 +26,8 @@ npm start
 
 Nota: Si quieres ver la app en web, [ingresa a la página](https://cienciasmathapp.herokuapp.com) o solo dale en `clone` y sigue los pasos.
 
-## Licencias
+# Licencias
     Ciencias-Math-App-Desktop@v1.5
     │ └── Creative Commons Zero v1.0 Universal
-    ├─┬ SASS AND TEMPLATES
+    ├─┬ CSS AND TEMPLATES
     │ └── MIT License - Copyright (c) 2017 Creative Tim (http://www.creative-tim.com)
