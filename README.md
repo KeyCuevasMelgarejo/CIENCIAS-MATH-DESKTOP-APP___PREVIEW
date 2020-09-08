@@ -2,11 +2,10 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FCIENCIAS-MATH-APP-EJECUTABLE---PREVIEW)
 # Ciencias Math App Desktop - Demo
 ![](Demo.gif)
 
-# Ciencias Math App Desktop - Inicialización
+# Ciencias Math App Desktop - Inicialización ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FCIENCIAS-MATH-APP-EJECUTABLE---PREVIEW)
 
 **Clona y corre el programa para ver a Ciencias Math App Desktop en uso**
 
